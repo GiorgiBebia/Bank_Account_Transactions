@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bank_Account_Transactions/static/css/main.fc5c2c69.css",
+    "main.js": "/Bank_Account_Transactions/static/js/main.67fd8776.js",
+    "index.html": "/Bank_Account_Transactions/index.html",
+    "main.fc5c2c69.css.map": "/Bank_Account_Transactions/static/css/main.fc5c2c69.css.map",
+    "main.67fd8776.js.map": "/Bank_Account_Transactions/static/js/main.67fd8776.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.67fd8776.js"
+  ]
+}
